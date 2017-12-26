@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\Admin\Desktop\retrofit-example-with-php-restful-api-master\RetrofitExample.iml" filepath="C:\Users\Admin\Desktop\retrofit-example-with-php-restful-api-master\RetrofitExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RetrofitExampleWithPhpRestfulApi.iml" filepath="$PROJECT_DIR$/RetrofitExampleWithPhpRestfulApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
